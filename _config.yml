@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jakob M. Berndt"
+title                    : "Zheyi Shen"
 title_separator          : "|"
 name                     : ""
 description              : "Personal website"
-url                      : "https://jakobberndt.github.io"
+url                      : "https://Zoey1102.github.io"
 baseurl                  : "/"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -97,11 +97,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jakob M. Berndt"
-  avatar           : "/images/jakobberndt_bw.jpg"
-  bio              : "PhD candidate in economics <br> University of Cambridge"
-  location         : "Cambridge, UK"
-  email            : jb2088@cam.ac.uk
+  name             : "Zheyi Shen"
+  avatar           : #"/images/jakobberndt_bw.jpg"
+  bio              : "Econ graduate. TA in Complex Analysis, Linear Algebra, Probability & Statistics"
+  location         : "Chengdu, CHN"
+  email            : szyswufe@gmail.com
   uri              : # "http://www.econ.cam.ac.uk/people/phd/jb2088"
   home             :
   bitbucket        :
@@ -110,19 +110,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : jakobberndt
-  gitlab           : jakobberndt
+  github           : Zoey1102
+  gitlab           : Zoey1102
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : jberndt
+  linkedin         : #
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : jakoberndt
+  twitter          : #jakoberndt
   vine             :
   weibo            :
   xing             :
