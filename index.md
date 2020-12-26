@@ -6,12 +6,14 @@ author_profile: true
 
 ## about
 
-<p align="justify">I am a PhD candidate in the department of economics at the University of Cambridge.
+<p align="justify"> Economist, Novelist, Poet.
 My primary research interests lie in microeconomic theory, information economics, and machine learning. 
 I am interested in both pure theory and applied questions, employing techniques from economics, mathematics and machine learning. </p>
 
-<p align="justify"> I received an MSc in economics from the London School of Economics and an MPhil in economic research from the University of Cambridge. After graduating from LSE, I worked as a consultant at McKinsey & Company. </p>
+<p align="justify"> I received an BSc in Mathematical Economics and Statistics from the University of Birmingham and an BSc in Economics with minor in Finance from the Southwestern University of Finance and Economics. After graduatation in 2019, I successively taught seminars for Linear Algebra, Complex Analysis, and Probability and Statistics as a Teaching Assistant at the Guilin University Of Aerospace Technology. </p>
 
 <!--
 <p> You can access my CV <a href="" target="_blank">here</a>. </p>
 -->
+
+<p> You can access my CV <a href="" target="_blank">here</a>. </p>
