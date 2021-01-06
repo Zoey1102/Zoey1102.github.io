@@ -6,7 +6,7 @@ author_profile: true
 
 ## about
 
-<p align="justify"> Econ student, Writer, Philosophy lover. </p>
+<p align="justify"> Econ graduate, Writer, Philosophy lover. </p>
 <p> Aspirational future econometrist with firm conviction in data integrity. </p>
 
 <p> I am primarily interested by microeconomic theory, empirical political economy, social and economic networks. 
