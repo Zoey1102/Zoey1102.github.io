@@ -6,7 +6,7 @@ author_profile: true
 
 ## about
 
-<p align="justify"> Economist, Writer, gadgets and doodads addict. </p>
+<p align="justify"> Econ student, Writer, Philosophy lover, aspirational future econometrist with firm conviction in data integrity. </p>
 
 <!--
 <p> My primary research interests lie in microeconomic theory, information economics, and machine learning. 
@@ -14,10 +14,12 @@ I am interested in both pure theory and applied questions, employing techniques 
 -->
 <p> I got BSc. Mathematical Economics and Statistics from  University of Birmingham(UK) and BSc. Economics with minor in Finance from Southwestern University of Finance and Economics(China).  </p>
 
-<p> Firm maintainer of Data Integrity: In 2019, when writing my dissertation on pilot carbon trading at China, I found all significant results from collected literature irreproducible. To solve the reproducibility crisis, I am now taking a gap year to systematically rebuild my belief in Economics after graduation. After field work and interview with people in the industry and contact with scholars in environmental economics and polocy, I finally gathered courage to declare insignificance and tell the story of insignificance. Insignificance is insignificance. Do NOT aim at becoming a "stargazer". </p>
+<p> I encountered reproducibility crisis in 2019: when writing one of my two dissertations that evaluated the efficiency of Chinese carbon trading, I found all significant results from collected literature irreproducible. Soon I realised that I must systematically reconstruct my belief in Economics before moving on to pursue a PhD. After field work with people in the industry and contact with scholars in environmental economics and policy, I finally gathered enough courage to tell a story behind insignificance. Insignificance is insignificance. A real Economist is never ever a "stargazer". </p>
 
-<p> TA, Linear Algebra/Complex Analysis/Probability and Statistics, Guilin University Of Aerospace Technology. </p>
-<p> Data Quality Analyst Intern, CHFS. </p>
+<p> What am I doing during the second gap year?
+  Teaching Assistant in Linear Algebra/Complex Analysis/Probability & Statistics at a University in China. 
+  Data Quality Analyst Intern for China Household Finance Survey about COV-19's impact. </p>
+
 
 <!--
 <p> You can access my CV <a href="" target="_blank">here</a>. </p>
