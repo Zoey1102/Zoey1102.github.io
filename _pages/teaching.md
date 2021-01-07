@@ -3,47 +3,35 @@ title: teaching
 permalink: /teaching/
 ---
 
-## teaching
+## Teaching Assistant
 
-<p> Department of Economics, University of Cambridge
+<p> School of Electronic and Automation Engineering, Guilin University of Aerospace Technology, China
 <details>
-<summary><a href="http://www.econ.cam.ac.uk/graduate/mphil/modules/R100.pdf" target="_blank">Microeconomics</a> | graduate (research) | 2018</summary>
-<p align="justify" style="font-size:90%">This course covers the standard economic models of individual decision-making with and without uncertainty, models of consumer behaviour and producer behaviour under perfect competition and the Arrow-Debreu general equilibrium model.
-The course is divided into three parts: choice theory, choice under uncertainty, and general equilibrium.</p>
-</details> </p>
-
-<p> <details>
-<summary><a href="http://www.econ.cam.ac.uk/graduate/mphil/modules/R101.pdf" target="_blank">Game Theory</a> | graduate (research) | 2020</summary>
+<summary><a href="http://www." target="_blank">Probability & Statistics</a> | Undergraduate | 2020 Spring & 2020 Fall</summary>
 <p align="justify" style="font-size:90%">This course covers the basic tools of (mainly non-cooperative) game theory. The course is concerned with both static and dynamic games of perfect/complete and imperfect/incomplete information. The course also covers bargaining, as well as mechanism design.</p>
 </details> </p>
 
 <p> <details>
-<summary><a href="http://www.econ.cam.ac.uk/apply/mphil-economic-research/mphil-economic-research-course-modules/optional-modules" target="_blank">Industrial Organisation</a> | graduate | 2019-2020</summary>
-<p align="justify" style="font-size:90%">This course develops some of the central topics in the theory of industrial organisation. Although the main angle of analysis will be analytical, applications of the theory to practical competition policy issues will be emphasised. In particular, issues of market power, anticompetitive practices and possible policy responses will be discussed.</p>
+<summary><a href="http://www." target="_blank">Complex Analysis</a> | Undergraduate | 2020 Spring</summary>
+<p align="justify" style="font-size:90%"> </p>
 </details> </p>
 
 <p> <details>
-<summary><a href="http://www.econ.cam.ac.uk/ba/outlines/Part_I_Paper_3.pdf" target="_blank">Quantitative Methods</a> | undergraduate | 2018-2020</summary>
-<p align="justify" style="font-size:90%">This course covers the essential mathematical concepts and techniques required for economics. It is divided into a mathematics and a statistics part. The mathematics part covers calculus and optimisation, linear algebra, and difference and differential equations. The statistics part covers descriptive statistics, probability and distribution theory, and estimation and inference.</p>
-</details> </p>
-
-<p> <details>
-<summary><a href="http://www.econ.cam.ac.uk/ba/outlines/Part_IIA_Paper_6.pdf" target="_blank">Mathematics and Statistics</a> | undergraduate | 2018-2020</summary>
-<p align="justify" style="font-size:90%">This course covers essential mathematics for econometrics and problems of optimal choice. The mathematics part covers static and dynamic optimization techniques. The first part of the course contains a full presentation of the Lagrange (Kuhn-Tucker) method. The second part is an introduction into dynamic optimization, in particular optimal control. The probability and statistics part covers essential mathematics for econometrics: Probability theory, linear algebra, and statistics.</p>
+<summary><a href="http://www." target="_blank">Linear Algebra</a> | Undergraduate | 2020 Fall</summary>
+<p align="justify" style="font-size:90%"> </p>
 </details> </p>
 
 <br>
+## One-to-one Tutoring Service (online/offline)
 
-<p> Judge Business School, University of Cambridge
-<details>
-<summary><a href="https://www.jbs.cam.ac.uk/programmes/undergraduate/programme-overview/core-courses/" target="_blank">Economics of Firms and Markets</a> | undergraduate | 2017</summary>
-<p align="justify" style="font-size:90%">The course shows how business economics may be used to explain and predict phenomena relating to markets and firms, and explores some of the possible uses of business economics in the analysis of management problems and in managerial decision-making. The course covers basic microeconomics and introduces macroeconomics.</p>
+<details> 
+<summary><a href="https://program-and-modules-handbook.bham.ac.uk/webhandbooks/WebHandbooks-control-servlet?Action=getModuleDetailsList&pgSubj=08&pgCrse=29172&searchTerm=002021" target="_blank">08 29172 Econometrics A, University of Birmingham</a> | Undergraduate
+ | 2019.01 - 2019.02 & 2019.07-2019.08</summary>
+<p align="justify" style="font-size:90%">This module reviews basic concepts of probability, statistical theory and methods introduced in the first year modules. It develops ideas of random variables, sampling, estimation, hypothesis testing and related aspects of inferential methods in more detail. Two variable and multiple regression models are developed and estimation procedures considered under the classical assumptions as well as violations of these assumptions.</p>
 </details> </p>
 
-<br>
 
-<p> Department of Engineering, University of Cambridge
 <details>
-<summary><a href="http://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iia-3e1-business-economics-2017-18" target="_blank">Business Economics</a> | undergraduate | 2017</summary>
-<p align="justify" style="font-size:90%">The aims of the course are to introduce students to the use of economics to understand the operation and decisions of businesses, their industrial environment and the macroeconomy. Specific topics that are covered include consumer theory, theory of the firm and different market structures, game theory, and welfare economics.</p>
+<summary><a href="https://www.cass.city.ac.uk/study/masters/courses/international-accounting-and-finance" target="_blank">SMM466 Applied Empirical Accounting, Cass Business School</a> | Graduaduate | 2019.12 - 2020.01</summary>
+<p align="justify" style="font-size:90%">The module teaches how to apply econometric techniques in the empirical analysis and modelling of equity and fixed income markets. You will learn key tools and methods in applying these techniques for analysis and development of quantitative strategies for forecasting, pricing and risk management.</p>
 </details> </p> 
