@@ -28,4 +28,3 @@ Always want to weave study of economic thought history into reality-focused empi
 <p> You can access my CV <a href="" target="_blank">here</a>. </p>
 -->
 
-<p> You can access my CV <a href="" target="_blank">here</a>. </p>
