@@ -12,7 +12,7 @@ permalink: /research/
 ## Course Projects
 
 
-## Filed studies
+## Field studies
 <p> The Prison Arts Project
 <details>   
 <summary><a href="http://mp.weixin.qq.com/profile?src=3&timestamp=1610089978&ver=1&signature=6dltSn1V40UHgeKBkdew5wXMouxFkAj*OuGCUZHXC8s*OhCH5r-VHSW15IHrMUx99FUNkPynkYi81KsCM2TcrQ==">  WeChat public account “Jail Hope, Jail Watching”（狱望）</a></summary>
