@@ -7,6 +7,43 @@ permalink: /notes/
 I will upload detailed files soon. Should you have any urgent need, you are welcome to send a email for direct share. </p>
 
 ## R Notes & Assignments
+<p> Financial Data Analytics with R, by Prof Kris BOUDT, Vrije Universiteit Amsterdam </p>
+
+<p> <details>
+<summary><a href="" target="_blank">1. Introduction to R & Statistics Review</a></summary>
+<p align="justify" style="font-size:90%"> </p>
+</details> </p>
+
+<p> <details>
+<summary><a href="" target="_blank">2. Price Returns & O</a></summary>
+<p align="justify" style="font-size:90%"> </p>
+</details> </p>
+
+<p> <details>
+<summary><a href="" target="_blank">3. GARCH</a></summary>
+<p align="justify" style="font-size:90%"> </p>
+</details> </p>
+
+<p> <details>
+<summary><a href="" target="_blank">4. Optimization</a></summary>
+<p align="justify" style="font-size:90%"> </p>
+</details> </p>
+
+<p> <details>
+<summary><a href="" target="_blank">5. High frequency data analysis </a></summary>
+<p align="justify" style="font-size:90%"> </p>
+</details> </p>
+                      
+<p> <details>
+<summary><a href="" target="_blank">6. Text Mining and Its Applications</a></summary>
+<p align="justify" style="font-size:90%"> </p>
+</details> </p>
+
+<p> <details>
+<summary><a href="" target="_blank">7. Accounting for behavioral aspects in financial data analytics</a></summary>
+<p align="justify" style="font-size:90%"> </p>
+</details> </p>
+
 
 <p> <a href="https://www.coursera.org/specializations/jhu-data-science#courses">Data Science Specialization </a>by John Hopkins University on Coursera
 <details>   
@@ -56,43 +93,6 @@ I will upload detailed files soon. Should you have any urgent need, you are welc
 
 <p> <details>
 <summary><a href="" target="_blank">Data Science Capstone</a></summary>
-<p align="justify" style="font-size:90%"> </p>
-</details> </p>
-
-<p> Financial Data Analytics with R </a> by Prof Kris BOUDT, Vrije Universiteit Amsterdam </p>
-
-<p> <details>
-<summary><a href="" target="_blank">1. Introduction to R & Statistics Review</a></summary>
-<p align="justify" style="font-size:90%"> </p>
-</details> </p>
-
-<p> <details>
-<summary><a href="" target="_blank">2. Price Returns & O</a></summary>
-<p align="justify" style="font-size:90%"> </p>
-</details> </p>
-
-<p> <details>
-<summary><a href="" target="_blank">3. GARCH</a></summary>
-<p align="justify" style="font-size:90%"> </p>
-</details> </p>
-
-<p> <details>
-<summary><a href="" target="_blank">4. Optimization</a></summary>
-<p align="justify" style="font-size:90%"> </p>
-</details> </p>
-
-<p> <details>
-<summary><a href="" target="_blank">5. High frequency data analysis </a></summary>
-<p align="justify" style="font-size:90%"> </p>
-</details> </p>
-                      
-<p> <details>
-<summary><a href="" target="_blank">6. Text Mining and Its Applications</a></summary>
-<p align="justify" style="font-size:90%"> </p>
-</details> </p>
-
-<p> <details>
-<summary><a href="" target="_blank">7. Accounting for behavioral aspects in financial data analytics</a></summary>
 <p align="justify" style="font-size:90%"> </p>
 </details> </p>
 
