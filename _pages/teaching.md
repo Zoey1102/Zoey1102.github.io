@@ -1,5 +1,5 @@
 ---
-title: teaching
+title: Teaching
 permalink: /teaching/
 ---
 
@@ -7,17 +7,17 @@ permalink: /teaching/
 
 <p> Guilin University of Aerospace Technology, China
 <details>
-<summary><a href="http://" target="_blank">Probability & Statistics</a> | Undergraduate | 2020 Spring & 2020 Fall</summary>
-<p align="justify" style="font-size:90%">This course covers the basic tools of (mainly non-cooperative) game theory. The course is concerned with both static and dynamic games of perfect/complete and imperfect/incomplete information. The course also covers bargaining, as well as mechanism design.</p>
+<summary><a href="" target="_blank">Probability & Statistics</a> | Undergraduate | 2020 Spring & 2020 Fall</summary>
+<p align="justify" style="font-size:90%"></p>
 </details> </p>
 
 <p> <details>
-<summary><a href="http://" target="_blank">Complex Analysis</a> | Undergraduate | 2020 Spring</summary>
+<summary><a href="" target="_blank">Complex Analysis</a> | Undergraduate | 2020 Spring</summary>
 <p align="justify" style="font-size:90%"> </p>
 </details> </p>
 
 <p> <details>
-<summary><a href="http://" target="_blank">Linear Algebra</a> | Undergraduate | 2020 Fall</summary>
+<summary><a href="" target="_blank">Linear Algebra</a> | Undergraduate | 2020 Fall</summary>
 <p align="justify" style="font-size:90%"> </p>
 </details> </p>
 
