@@ -3,7 +3,7 @@ title: Review
 permalink: /review/
 ---
 
-<p> Short review/summary of impressive books and papers I have read/reread since the October of 2020. <br>
+<p> Short review/summary of impressive books and papers I have read/reread since late 2020. <br>
 Should it be tight on schedule, I will manage to update titles and resource links first.<br>
 Reading materials that remain unread will not turn blue.</p>
 
