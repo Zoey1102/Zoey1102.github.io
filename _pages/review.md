@@ -38,6 +38,6 @@ Reading materials that remain unread will not turn blue.</p>
 
 ## Speech/Lectures Videos
 <p> <details>
-<summary><a href="https://www.ineteconomics.org/perspectives/videos/how-and-how-not-to-do-economics" target="_blank">How & How NOT to do Economics?</a> lauched by The Institute for New Economic Thinking (INET) with Prof Robert Skidelsky, Warwick University. <a href="http://www.hetwebsite.net/het/video/skidelsky.htm#works" target="_blank">A more Organised page</a></summary>
+<summary><a href="https://www.ineteconomics.org/perspectives/videos/how-and-how-not-to-do-economics" target="_blank">How & How NOT to do Economics?</a> lauched by The Institute for New Economic Thinking (INET) with Prof Robert Skidelsky, Warwick University. <a href="http://www.hetwebsite.net/het/video/skidelsky.htm#works" target="_blank"> A more organised page with supplement reading</a></summary>
 <p align="justify" style="font-size:90%"> </p>
 </details> </p>
