@@ -1,7 +1,8 @@
 ---
 title: Notes
-permalink: /Notes/
+permalink: /notes/
 ---
+
 <p> Mostly built around my notes taken on Coursera courses. <br>
 I will upload detailed files soon. Should you in urgent need, you are welcome to send a email for direct share. </p>
 
