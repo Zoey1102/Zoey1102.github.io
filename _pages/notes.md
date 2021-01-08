@@ -34,7 +34,7 @@ I will upload detailed files soon. Should you have any urgent need, you are welc
 </details> </p>
 
 <p> <details>
-<summary><a href="" target="_blank">2. Price Returns & O</a></summary>
+<summary><a href="" target="_blank">2. Price Returns</a></summary>
 <p align="justify" style="font-size:90%"> </p>
 </details> </p>
 
@@ -63,7 +63,7 @@ I will upload detailed files soon. Should you have any urgent need, you are welc
 <p align="justify" style="font-size:90%"> </p>
 </details> </p>
 
-
+<br>
 <p> <a href="https://www.coursera.org/specializations/jhu-data-science#courses">Data Science Specialization </a>by John Hopkins University on Coursera
 <details>   
 <summary><a href="">The Data Scientist’s Toolbox</a></summary>
