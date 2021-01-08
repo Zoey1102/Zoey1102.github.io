@@ -4,7 +4,7 @@ permalink: /notes/
 ---
 
 <p> Mostly built around my notes taken on Coursera courses. </p> <br>
-<p> I will upload detailed files soon. Should you in urgent need, you are welcome to send a email for direct share. </p>
+<p> I will upload detailed files soon. Should you have any urgent need, you are welcome to send a email for direct share. </p>
 
 ## R Notes & Assignments
 
@@ -96,7 +96,7 @@ permalink: /notes/
 <p align="justify" style="font-size:90%"> </p>
 </details> </p>
 
-<br>
+
 ##  Political Economics Notes
 <p> <details>
 <summary><a href="https://www.coursera.org/learn/moral-politics/home/info" target="_blank">Moral Foundations of Politics</a> by Yale on Cousera</summary>
@@ -104,7 +104,6 @@ permalink: /notes/
 </details> </p>
 
 
-<br>
 ##  New methods & New models
 <p> <details>
 <summary><a href="https://www.coursera.org/learn/systems-thinking/home/info" target="_blank">Systems Thinking In Public Health</a> by Johns Hopkins University on Coursera</summary>
