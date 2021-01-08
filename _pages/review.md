@@ -7,7 +7,7 @@ permalink: /review/
 Should it be tight on schedule, I will update titles and resource links first.<br>
 Reading materials remain unread will not turn blue.</p>
 
-## Academic Writing Imitation
+## Academic Writing
 <p> <details>
 <summary><a href="" target="_blank"></a></summary>
 <p align="justify" style="font-size:90%"> </p>
