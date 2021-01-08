@@ -3,23 +3,9 @@ title: Review
 permalink: /review/
 ---
 
-<p> Short review on impressive books and papers I have read/reread since the October of 2020. <br>
+<p> Short review/summary of impressive books and papers I have read/reread since the October of 2020. <br>
 Should it be tight on schedule, I will manage to update titles and resource links first.<br>
 Reading materials that remain unread will not turn blue.</p>
-
-## Academic Writing
-
-## Literature & Social Science
-<p> <details>
-<summary><a href="https://www.penguinrandomhouse.com/books/297620/why-i-write-by-george-orwell/" target="_blank">Why I Write</a> by<a href="https://christopherhitchens.net/" target="_blank"> Christopher Hitchens </a></summary>
-<p align="justify" style="font-size:90%"> </p>
-</details> </p>
-
-<p> <details>
-<summary><a href="https://www.mydownloadbook.com/files/ebook.php?id=7JQ5DgAAQBAJ&item=Letters%20to%20a%20Young%20Contrarian" target="_blank">Letters to A Young Contrarian</a> by George Owell, published by Penguin Random. <a href="https://www.orwell.ru/library/essays/index_en" target="_blank">All Essays by Orwell</a></summary>
-<p align="justify" style="font-size:90%"> </p>
-</details> </p>
-
 
 ## Economic Thought History
 <p> <details>
@@ -55,4 +41,20 @@ Reading materials that remain unread will not turn blue.</p>
 <p align="justify" style="font-size:90%"> </p>
 </details> </p>
 
+## Academic Writing
 
+## Literature & Insight
+<p> <details>
+<summary><a href="https://www.penguinrandomhouse.com/books/297620/why-i-write-by-george-orwell/" target="_blank">Why I Write</a> by George Owell, published by Penguin Random. <a href="https://www.orwell.ru/library/essays/index_en" target="_blank">All Essays by Orwell</a></summary>
+<p align="justify" style="font-size:90%"> </p>
+</details> </p>
+
+<p> <details>
+<summary><a href="https://www.mydownloadbook.com/files/ebook.php?id=7JQ5DgAAQBAJ&item=Letters%20to%20a%20Young%20Contrarian" target="_blank">Letters to A Young Contrarian</a> by<a href="https://christopherhitchens.net/" target="_blank"> Christopher Hitchens </a></summary>
+<p align="justify" style="font-size:90%"> </p>
+</details> </p>
+
+<p> <details>
+<summary><a href="https://archive.org/details/KonstantinPaustovskyTheGoldenRose/mode/2up">The Golden Rose</a> by Konstantin Paustovsky</summary>
+<p align="justify" style="font-size:90%"> </p>
+</details> </p>
