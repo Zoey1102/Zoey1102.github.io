@@ -6,6 +6,25 @@ permalink: /notes/
 <p> Mostly built around my notes taken on Coursera courses. <br>
 I will upload detailed files soon. Should you have any urgent need, you are welcome to send a email for direct share. </p>
 
+##  Political Economics Notes
+<p> <details>
+<summary><a href="https://www.coursera.org/learn/moral-politics/home/info" target="_blank">Moral Foundations of Politics</a> by Yale on Cousera</summary>
+<p align="justify" style="font-size:90%"></p>
+</details> </p>
+
+
+##  New methods & New models
+<p> <details>
+<summary><a href="https://www.coursera.org/learn/systems-thinking/home/info" target="_blank">Systems Thinking In Public Health</a> by Johns Hopkins University on Coursera</summary>
+<p align="justify" style="font-size:90%"></p>
+</details> </p>
+
+<p> <details>
+<summary><a href="https://www.coursera.org/learn/social-economic-networks/home/info" target="_blank">Social and Economic Networks: Models and Analysis</a> by Stanford on Coursera</summary>
+<p align="justify" style="font-size:90%"></p>
+</details> </p>
+
+
 ## R Notes & Assignments
 <p> Financial Data Analytics with R, by Prof Kris BOUDT, Vrije Universiteit Amsterdam </p>
 
@@ -96,21 +115,3 @@ I will upload detailed files soon. Should you have any urgent need, you are welc
 <p align="justify" style="font-size:90%"> </p>
 </details> </p>
 
-
-##  Political Economics Notes
-<p> <details>
-<summary><a href="https://www.coursera.org/learn/moral-politics/home/info" target="_blank">Moral Foundations of Politics</a> by Yale on Cousera</summary>
-<p align="justify" style="font-size:90%"></p>
-</details> </p>
-
-
-##  New methods & New models
-<p> <details>
-<summary><a href="https://www.coursera.org/learn/systems-thinking/home/info" target="_blank">Systems Thinking In Public Health</a> by Johns Hopkins University on Coursera</summary>
-<p align="justify" style="font-size:90%"></p>
-</details> </p>
-
-<p> <details>
-<summary><a href="https://www.coursera.org/learn/social-economic-networks/home/info" target="_blank">Social and Economic Networks: Models and Analysis</a> by Stanford on Coursera</summary>
-<p align="justify" style="font-size:90%"></p>
-</details> </p>
