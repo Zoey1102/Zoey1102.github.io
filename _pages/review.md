@@ -38,6 +38,6 @@ Reading materials remain unread will not turn blue.</p>
 
 ## Speech Videos
 <p> <details>
-<summary><a href="https://www.ineteconomics.org/perspectives/videos/how-and-how-not-to-do-economics" target="_blank">How & How NOT to do Economics?</a>by Prof Robert Skidelsky, Warwick University</summary>
+<summary><a href="https://www.ineteconomics.org/perspectives/videos/how-and-how-not-to-do-economics" target="_blank">How & How NOT to do Economics?</a> by Prof Robert Skidelsky, Warwick University</summary>
 <p align="justify" style="font-size:90%"> </p>
 </details> </p>
