@@ -3,9 +3,6 @@ title: Notes
 permalink: /notes/
 ---
 
-<p> Mostly built around my notes taken on Coursera courses. <br>
-I will upload detailed files soon. Should you in urgent need, you are welcome to send a email for direct share. </p>
-
 ## R Notes & Assignments
 
 <p> <a href="https://www.coursera.org/specializations/jhu-data-science#courses">Data Science Specialization </a>by John Hopkins University on Coursera
