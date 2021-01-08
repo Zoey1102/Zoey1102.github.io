@@ -5,7 +5,7 @@ permalink: /review/
 
 <p> Short review on impressive books and papers I have read/will read in the year 2021. <br>
 Should it be tight on schedule, I will update titles and resource links first.<br>
-Reading materials remain unread will not turn blue.</p>
+Reading materials that remain unread will not turn blue.</p>
 
 ## Academic Writing
 <p> <details>
