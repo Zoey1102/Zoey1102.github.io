@@ -11,7 +11,7 @@ Reading materials that remain unread will not turn blue.</p>
 
 ## Literature
 <p> <details>
-<summary><a href="https://www.penguinrandomhouse.com/books/297620/why-i-write-by-george-orwell/" target="_blank">Why I Write</a>by George Owell, published by Penguin Random. <a href="https://www.orwell.ru/library/essays/index_en" target="_blank">All Essays by Orwell</a></summary>
+<summary><a href="https://www.penguinrandomhouse.com/books/297620/why-i-write-by-george-orwell/" target="_blank">Why I Write</a> by George Owell, published by Penguin Random. <a href="https://www.orwell.ru/library/essays/index_en" target="_blank">All Essays by Orwell</a></summary>
 <p align="justify" style="font-size:90%"> </p>
 </details> </p>
 
