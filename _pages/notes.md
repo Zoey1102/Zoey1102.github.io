@@ -3,8 +3,8 @@ title: Notes
 permalink: /notes/
 ---
 
-<p> Mostly built around my notes taken on Coursera courses. <br>
-I will upload detailed files soon. Should you in urgent need, you are welcome to send a email for direct share. </p>
+<p> Mostly built around my notes taken on Coursera courses. </p> <br>
+<p> I will upload detailed files soon. Should you in urgent need, you are welcome to send a email for direct share. </p>
 
 ## R Notes & Assignments
 
@@ -59,9 +59,6 @@ I will upload detailed files soon. Should you in urgent need, you are welcome to
 <p align="justify" style="font-size:90%"> </p>
 </details> </p>
 
-
-<br>
-
 <p> Financial Data Analytics with R </a> by Prof Kris BOUDT, Vrije Universiteit Amsterdam </p>
 
 <p> <details>
@@ -99,14 +96,12 @@ I will upload detailed files soon. Should you in urgent need, you are welcome to
 <p align="justify" style="font-size:90%"> </p>
 </details> </p>
 
-
 <br>
 ##  Political Economics Notes
 <p> <details>
 <summary><a href="https://www.coursera.org/learn/moral-politics/home/info" target="_blank">Moral Foundations of Politics</a> by Yale on Cousera</summary>
 <p align="justify" style="font-size:90%"></p>
 </details> </p>
-
 
 
 <br>
