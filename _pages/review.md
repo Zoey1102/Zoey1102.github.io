@@ -14,7 +14,7 @@ Reading materials that remain unread will not turn blue.</p>
 </details> </p>
 
 <p> <details>
-<summary><a href="" target="_blank">Blaug, Mark(1997): Economic Theory in Retrospect, Cambridge University Press, 5th edition</a></summary>
+<summary><a href="https://b-ok.global/book/5433887/219a37?dsource=recommend" target="_blank">Blaug, Mark(1997): Economic Theory in Retrospect, Cambridge University Press, 5th edition</a></summary>
 <p align="justify" style="font-size:90%"> </p>
 </details> </p>
 
