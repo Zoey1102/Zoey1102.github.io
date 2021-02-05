@@ -18,29 +18,41 @@ Reading materials that remain unread will not turn blue.</p>
 <p align="justify" style="font-size:90%"> </p>
 </details> </p>
 
-<p> <details>
-<summary><a href="" target="_blank">Blaug, Mark(1994), Not only an economist: autobiographical reflections of a historian of economic thought</a></summary>
-<p align="justify" style="font-size:90%"> </p>
-</details> </p>
-
 ## Economic History
 <p> <details>
 <summary><a href="https://www.academia.edu/23328928/A_farewell_to_alms_Gregory_Clark" target="_blank">Clark, G. (2008). A Farewell to Alms: A Brief Economic History of the World. Princeton: Princeton University Press</a></summary>
 <p align="justify" style="font-size:90%"> </p>
 </details> </p>
 
-## Literature Review    
+## Literature Review & Classical Textbooks   
 <p> <details>
 <summary><a href="https://nationalaffairs.com/storage/app/uploads/public/591/ee4/e51/591ee4e5110d5121452909.pdf" target="_blank">Hahn, Frank(1980), "General Equilibrium Theory", The Public Interest, special edition 1980.</a></summary>
 <p align="justify" style="font-size:90%"> </p>
 </details> </p>
 
+<p> <details>
+<summary><a href="https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2769/Alchian_UniversalEconomics1674.pdf" target="_blank">Alchian, A., Allen, W., & Jordan, J. (2018). Universal economics. Liberty Fund.</a>(ongoing)</summary>
+<p align="justify" style="font-size:90%> </p>
+</details> </p>
+  
 ## Speech/Lectures Videos
 <p> <details>
 <summary><a href="https://www.ineteconomics.org/perspectives/videos/how-and-how-not-to-do-economics" target="_blank">How & How NOT to do Economics?</a> lauched by The Institute for New Economic Thinking (INET) with Prof Robert Skidelsky, Warwick University. <a href="http://www.hetwebsite.net/het/video/skidelsky.htm#works" target="_blank"> A more organised page with supplement reading</a></summary>
 <p align="justify" style="font-size:90%"> </p>
 </details> </p>
 
+## Biographies
+<p> <details>
+<summary><a href="https://econpapers.repec.org/bookchap/elgeebook/3289.htm" target="_blank">Blaug, Mark(1994), Not only an economist: autobiographical reflections of a historian of economic thought</a></summary>
+<p align="justify" style="font-size:90%"> </p>
+</details> </p>
+
+<p> <details>
+ <summary><a href ="https://econjwatch.org/file_download/452/AllenMemoirSept2010.pdf?mimetype=pdf
+" target="_blank">William R. Allen(2010). "A Life among the Econ, Particularly at UCLA," Econ Journal Watch, Econ Journal Watch, vol. 7(3), pages 205-234, September</a><summary>
+<p align="justify" style="font-size:90%"> </p>
+</details> </p>
+  
 ## Academic Writing
 
 ## Literature & Insight
