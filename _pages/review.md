@@ -49,11 +49,15 @@ Reading materials that remain unread will not turn blue.</p>
 
 <p> <details>
  <summary><a href ="https://econjwatch.org/file_download/452/AllenMemoirSept2010.pdf?mimetype=pdf
-" target="_blank">William R. Allen(2010). "A Life among the Econ, Particularly at UCLA," Econ Journal Watch, Econ Journal Watch, vol. 7(3), pages 205-234, September</a><summary>
+" target="_blank">William R. Allen(2010). "A Life among the Econ, Particularly at UCLA," Econ Journal Watch, Econ Journal Watch, vol. 7(3), pages 205-234, September</a></summary>
 <p align="justify" style="font-size:90%"> </p>
 </details> </p>
   
 ## Academic Writing
+<p> <details>
+<summary><a href="" target="_blank"></a></summary>
+<p align="justify" style="font-size:90%"> </p>
+</details> </p>  
 
 ## Literature & Insight
 <p> <details>
